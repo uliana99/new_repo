@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/uliana99/new_repo.svg?branch=master)](https://travis-ci.org/uliana99/new_repo)
 ## Laboratory work IV
 
 Данная лабораторная работа посвещена изучению систем автоматизации сборки проекта на примере **CMake**
